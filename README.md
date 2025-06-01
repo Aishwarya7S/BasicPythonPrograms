@@ -12,17 +12,3 @@ This repository contains Python programs demonstrating fundamental programming c
 
 ---
 
-## 📚 Topics Covered
-
-- Checking numbers: **positive, negative, zero**, and **even/odd**  
-- Arithmetic operations  
-- Palindrome checks (strings and numbers)  
-- Factorials  
-- Fibonacci series  
-- Prime number checks  
-- Swapping variables  
-- Armstrong numbers  
-- Temperature conversion  
-- Counting vowels and consonants in strings  
-- Leap year determination  
-- Using built-in Python methods for **strings, lists, tuples, dictionaries,** and **sets**
