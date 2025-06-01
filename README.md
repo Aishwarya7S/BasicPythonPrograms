@@ -10,5 +10,5 @@ Python is a high-level, interpreted programming language known for its simplicit
 
 This repository contains Python programs demonstrating fundamental programming concepts. The examples cover a variety of basic topics that help beginners build a strong foundation in Python.
 
----
+
 
